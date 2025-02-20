@@ -11,7 +11,7 @@ Follow the next structure for storing the home works in the repository:
 ├── Chaika_Konstantin
 │   ├── hw1
 │   └── hw2
-└── Surname_Name
+└── Yusuf_Loukman
     └── hw1
 ```
 ## Pull requests guide
@@ -23,10 +23,10 @@ Make pull requests [from your forks](https://docs.github.com/en/pull-requests/co
 
 Before submitting the pull request, make sure that you can say "YES" to each point in this short checklist:
 
-- [ ] Folder name and pull request title are correct.
-- [ ] Pull-request changes affect only your folder and contain only one Homework.
-- [ ] You can explain changes made in the pull request.
-- [ ] You do not have merge conflicts in the pull request.
+- [YES] Folder name and pull request title are correct.
+- [YES] Pull-request changes affect only your folder and contain only one Homework.
+- [YES] You can explain changes made in the pull request.
+- [YES] You do not have merge conflicts in the pull request.
 
 After submitting the pull request ensure that all GitHub Action tests are passed.
 They may not be run automatically for the first time.
